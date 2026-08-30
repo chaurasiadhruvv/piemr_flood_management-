@@ -1,0 +1,14 @@
+    1  git clone 
+    2  clear
+    3  git clone https://github.com/chaurasiadhruvv/piemr_flood_management-.git
+    4  ls
+    5  cd piemr_flood_management-/
+    6  git checkout -b  release-2.0
+    7  hitory
+    8  history
+    9  ls'
+   10  ls
+   11  ls
+   12  git status
+   13  history << git-history.text
+   14  history >> git-history.text
